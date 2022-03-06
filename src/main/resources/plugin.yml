@@ -1,0 +1,8 @@
+name: JacLantern
+main: com.jaclantern.JacLantern
+version: 1.0
+author: jacvver
+description: A simple plugin that activates night vision with one command.
+commands:
+  nv:
+    aliases: luz
